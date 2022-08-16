@@ -19,11 +19,14 @@ THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
 WHEN I view the icon and image elements
-THEN I find accessible alt attributes
+THEN I find accessible alt attributes 
+(added alt attributes to all images)
 WHEN I view the heading attributes
-THEN they fall in sequential order
+THEN they fall in sequential order 
+(changed an h2 element to an h3 element)
 WHEN I view the title element
-THEN I find a concise, descriptive title (Changed title to web page)
+THEN I find a concise, descriptive title 
+(Changed title to web page)
 ```
 
 ## Mock-Up
