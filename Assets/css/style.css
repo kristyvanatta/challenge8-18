@@ -101,7 +101,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-*/
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -116,7 +116,11 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+*/
+.benefit-one h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
 .benefit-lead img {
     display: block;
     margin: 10px auto;
