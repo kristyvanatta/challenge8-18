@@ -16,20 +16,21 @@ SO THAT our own site is optimized for search engines
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
-(Added header and footer tags)
+-Added header and footer tags
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
 WHEN I view the icon and image elements
 THEN I find accessible alt attributes 
-(added alt attributes to all images)
+-Added alt attributes to all images
 WHEN I view the heading attributes
 THEN they fall in sequential order 
-(changed an h2 element to an h3 element)
+-Changed an h2 element to an h3 element
 WHEN I view the title element
 THEN I find a concise, descriptive title 
-(Changed title to web page)
-(Removed unused a element in CSS)
-(Combined redundant CSS elements)
+-Changed title to web page
+-Combined redundant CSS elements
+-Fixed a broken Search Engine Optimization link
+-Added comments to the CSS
 ```
 
 ## Mock-Up

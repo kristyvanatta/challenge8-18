@@ -36,6 +36,10 @@ body {
 .header div ul {
     list-style-type: none;
 }
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
 /*sets the layout of the list items*/
 .header div ul li {
     display: inline-block;
