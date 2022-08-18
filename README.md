@@ -28,6 +28,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title 
 (Changed title to web page)
 (Removed unused a element in CSS)
+(Combined redundant CSS elements)
 ```
 
 ## Mock-Up
