@@ -1,29 +1,30 @@
+/*sets the box sizing for the entire page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*sets the background color of the page*/
 body {
     background-color: #d9dcd6;
 }
-
+/*sets the background color of the header, the font and the font color*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+ /*sets the font size for the header h1*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*sets the font color for the seo portion of the h1 in the header*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*sets the layout of the text in the header*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,20 +32,20 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*sets the list style to no bullet points */
 .header div ul {
     list-style-type: none;
 }
-
+/*sets the layout of the list items*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*sets the paragraph text font size*/
 p {
     font-size: 16px;
 }
-
+/*sets the size and layout of the main picture on the page*/
 .hero {
     height: 800px;
     width: 100%;
@@ -53,23 +54,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*sets the Online Reputation picture to the left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*sets the Search Engine and Social Media pictures to the right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*sets the layout of the Search Engine, Online Reputation, and Social Media block*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*sets the layout, size, font and background color of the Lead Genration Etc. box*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -80,23 +81,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*sets the margin and font color of the text in the Lead Generation Etc. box*/
 .benefits-one {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*sets the margin and placement of the h3 elements in the benefits-one class*/
 .benefits-one h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*sets the margin and max width of the icon images in the Lead Generation Etc. box*/
 .benefits-one img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*sets the layout, size, font and background color of the Search Engine Etc. box*/
 .content-one {
     margin-bottom: 20px;
     padding: 50px;
@@ -105,23 +106,23 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*sets the max height of the Search Engine Etc. box images*/
 .content-one img {
     max-height: 200px;
 }
-
+/*sets the margin and font size of the h2 elements in the content-one class*/
 .content-one h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*sets the font and text alignment and spacing of the footer*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*sets the margin and font size of the h3 element in the footer class*/
 .footer h3 {
     font-size: 20px;
 }
