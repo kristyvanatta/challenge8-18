@@ -31,6 +31,8 @@ THEN I find a concise, descriptive title
 -Combined redundant CSS elements
 -Fixed a broken Search Engine Optimization link
 -Added comments to the CSS
+
+link for GitHub pages https://kristyvanatta.github.io/challenge8-18/
 ```
 
 ## Mock-Up
